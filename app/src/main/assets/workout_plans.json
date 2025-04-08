@@ -1,0 +1,1249 @@
+{
+  "workoutPlans": [
+    {
+      "planName": "Muscle Gain Plan",
+      "goal": "Increase muscle size through resistance training with moderate reps and sets.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayTitle": "Chest & Triceps",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Lie flat on a bench, feet firmly on the floor. Grip the barbell slightly wider than shoulder-width. Lower the bar slowly to your mid-chest, keeping elbows slightly tucked. Press the bar back up explosively.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Chest (Pectorals), Triceps, Shoulders (Anterior Deltoids)",
+              "equipment": "Barbell, Bench",
+              "beginnerModification": "Dumbbell Bench Press (lighter weight, easier stabilization), Push-ups (on knees or incline).",
+              "imageSuggestion": "Person lying on a bench, lowering or pressing a barbell above their chest."
+            },
+            {
+              "name": "Incline Dumbbell Press",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Lie on an incline bench (30-45 degrees). Hold dumbbells above your chest, palms facing each other or slightly forward. Lower the dumbbells slowly to the sides of your upper chest, feeling a stretch. Press them back up.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Upper Chest, Shoulders, Triceps",
+              "equipment": "Dumbbells, Incline Bench",
+              "beginnerModification": "Use lighter dumbbells; focus on controlled movement.",
+              "imageSuggestion": "Person on an incline bench pressing two dumbbells upwards."
+            },
+            {
+              "name": "Dumbbell Flyes",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Lie flat on a bench holding dumbbells above your chest, palms facing each other, slight bend in elbows. Lower the dumbbells out to the sides in a wide arc, feeling a stretch in your chest. Bring them back together over your chest.",
+              "restTime": "60 sec",
+              "targetMuscles": "Chest (Pectorals)",
+              "equipment": "Dumbbells, Bench",
+              "beginnerModification": "Use very light dumbbells; Pec Deck machine if available.",
+              "imageSuggestion": "Person lying on a bench with arms outstretched to the sides, holding dumbbells, slight bend at the elbow."
+            },
+            {
+              "name": "Overhead Dumbbell Extension",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Stand or sit holding one dumbbell with both hands over your head. Lower the dumbbell behind your head by bending your elbows. Keep upper arms stationary. Extend elbows to lift the dumbbell back up.",
+              "restTime": "60 sec",
+              "targetMuscles": "Triceps",
+              "equipment": "Dumbbell",
+              "beginnerModification": "Use a lighter dumbbell; perform seated for more stability.",
+              "imageSuggestion": "Person standing or seated, lowering a dumbbell behind their head with both hands."
+            },
+            {
+              "name": "Triceps Pushdowns",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Stand facing a cable machine with a rope or straight bar attachment. Grip the attachment, elbows tucked at your sides. Push the attachment down until your arms are fully extended. Slowly return to the starting position.",
+              "restTime": "60 sec",
+              "targetMuscles": "Triceps",
+              "equipment": "Cable Machine, Rope/Bar Attachment",
+              "beginnerModification": "Use a resistance band anchored high; focus on keeping elbows pinned.",
+              "imageSuggestion": "Person standing at a cable machine, pushing down on a rope or bar attachment."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "dayTitle": "Back & Biceps",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Pull-Ups / Lat Pulldowns",
+              "setsReps": "3 sets x 6-10 reps / 10-12 reps",
+              "howToPerform": "Grip a pull-up bar slightly wider than shoulder-width, palms facing away. Hang fully extended. Pull your chest towards the bar. Lower yourself slowly.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Latissimus Dorsi (Lats), Biceps, Rhomboids",
+              "equipment": "Pull-Up Bar / Lat Pulldown Machine",
+              "beginnerModification": "Assisted Pull-Up Machine, Resistance Band Pull-Ups, Lat Pulldowns with lighter weight.",
+              "imageSuggestion": "Person pulling their body up towards a bar (Pull-Up) or pulling a bar down towards their chest on a machine (Lat Pulldown)."
+            },
+            {
+              "name": "Barbell Rows / Dumbbell Rows",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Stand with feet shoulder-width apart, knees slightly bent. Hinge at hips, keeping back straight (near parallel to floor). Grip barbell overhand. Pull the bar towards your lower chest/upper abs. Squeeze shoulder blades. Lower slowly.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Lats, Rhomboids, Traps, Biceps, Rear Deltoids",
+              "equipment": "Barbell / Dumbbells, Bench (for DB Rows)",
+              "beginnerModification": "Seated Cable Rows machine; Resistance Band Rows; use lighter weight focusing on form.",
+              "imageSuggestion": "Person bent over, pulling a barbell towards their stomach (Barbell Row) or person with one knee/hand on bench, pulling a dumbbell up (Dumbbell Row)."
+            },
+            {
+              "name": "Seated Cable Rows",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Sit at a cable row machine, feet braced, knees slightly bent. Grip handle (V-grip or wide bar). Keeping back straight, pull the handle towards your torso, squeezing shoulder blades. Slowly extend arms back.",
+              "restTime": "60 sec",
+              "targetMuscles": "Mid-Back (Rhomboids, Lats), Biceps",
+              "equipment": "Cable Row Machine",
+              "beginnerModification": "Use lighter weight; focus on the squeeze.",
+              "imageSuggestion": "Person seated at a machine, pulling a handle towards their torso."
+            },
+            {
+              "name": "Barbell Curls",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Stand holding a barbell with an underhand grip (palms up), shoulder-width apart. Keep elbows tucked at sides. Curl the barbell up towards your shoulders. Squeeze biceps at the top. Lower slowly.",
+              "restTime": "60 sec",
+              "targetMuscles": "Biceps",
+              "equipment": "Barbell (Straight or EZ-Curl)",
+              "beginnerModification": "Dumbbell Curls (allows more natural wrist movement); use lighter weight.",
+              "imageSuggestion": "Person standing, curling a barbell upwards, elbows close to body."
+            },
+            {
+              "name": "Hammer Curls",
+              "setsReps": "3 sets x 10-12 reps per arm",
+              "howToPerform": "Stand or sit holding dumbbells with palms facing your body (neutral grip). Keeping elbows tucked, curl one dumbbell up towards your shoulder. Lower slowly. Repeat with the other arm or curl both simultaneously.",
+              "restTime": "60 sec",
+              "targetMuscles": "Biceps, Brachialis, Forearms",
+              "equipment": "Dumbbells",
+              "beginnerModification": "Use lighter dumbbells; perform seated.",
+              "imageSuggestion": "Person standing or seated, curling dumbbells with palms facing inwards (neutral grip)."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "dayTitle": "Legs & Shoulders",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Barbell Back Squats",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Rest a barbell across your upper back/traps. Stand feet shoulder-width apart, toes slightly out. Keep chest up, back straight. Lower yourself by bending knees and hips, as if sitting in a chair, until thighs are parallel to the floor or lower. Drive back up through heels.",
+              "restTime": "90-120 sec",
+              "targetMuscles": "Quadriceps, Glutes, Hamstrings, Core",
+              "equipment": "Barbell, Squat Rack",
+              "beginnerModification": "Goblet Squats (hold dumbbell vertically against chest), Bodyweight Squats, Leg Press machine.",
+              "imageSuggestion": "Person with a barbell on their upper back, in the lowest position of a squat, thighs parallel to floor."
+            },
+            {
+              "name": "Romanian Deadlifts (RDLs)",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Stand holding a barbell or dumbbells in front of thighs, palms facing body. Feet hip-width apart, slight bend in knees. Keeping back straight, hinge at hips, lowering the weight towards the floor (keep it close to legs). Feel stretch in hamstrings. Go as low as flexibility allows without rounding back. Return to standing by squeezing glutes.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Hamstrings, Glutes, Lower Back (Erector Spinae)",
+              "equipment": "Barbell or Dumbbells",
+              "beginnerModification": "Use light dumbbells or just a PVC pipe/broomstick to learn the hip hinge movement; don't go too low initially.",
+              "imageSuggestion": "Person hinging at the hips, lowering a barbell down the front of their legs, back straight."
+            },
+            {
+              "name": "Leg Press",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Sit in leg press machine, place feet shoulder-width apart on the platform. Lower the weight by bending knees until thighs are near chest (or ~90 degrees). Push the platform back up through heels, without locking knees at the top.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Quadriceps, Glutes, Hamstrings",
+              "equipment": "Leg Press Machine",
+              "beginnerModification": "Use lighter weight; control the descent.",
+              "imageSuggestion": "Person seated in a leg press machine, pushing the foot platform away."
+            },
+            {
+              "name": "Overhead Press (Barbell or Dumbbell)",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Stand feet shoulder-width apart. Hold barbell at shoulder height, palms forward. Press the bar straight overhead until arms are fully extended. Lower slowly back to shoulders.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Shoulders (Deltoids), Triceps",
+              "equipment": "Barbell or Dumbbells",
+              "beginnerModification": "Seated Dumbbell Press (more stability); use lighter weights.",
+              "imageSuggestion": "Person standing or seated, pressing a barbell or dumbbells straight overhead."
+            },
+            {
+              "name": "Lateral Raises",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Stand or sit holding light dumbbells at your sides, palms facing body, slight bend in elbows. Raise arms out to the sides until they are parallel to the floor. Keep torso still. Lower slowly.",
+              "restTime": "60 sec",
+              "targetMuscles": "Shoulders (Lateral Deltoids)",
+              "equipment": "Dumbbells",
+              "beginnerModification": "Use very light dumbbells or resistance bands; focus on form, avoid swinging.",
+              "imageSuggestion": "Person standing, arms raised out to the sides parallel to the floor, holding dumbbells."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "dayTitle": "Rest",
+          "description": "Focus on recovery, light stretching, hydration, and nutrition.",
+          "exercises": []
+        },
+        {
+          "dayNumber": 5,
+          "dayTitle": "Upper Body Mix",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Incline Bench Press (Barbell or Dumbbell)",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Refer to Day 1",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Bent-Over Rows (Barbell or Dumbbell)",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "Refer to Day 2",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Seated Dumbbell Shoulder Press",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Refer to Day 3",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Lat Pulldowns / Assisted Pull-ups",
+              "setsReps": "3 sets x 10-15 reps",
+              "howToPerform": "Refer to Day 2",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Bicep Curls",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Refer to Day 2",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Triceps Rope Pushdowns",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Refer to Day 1",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 6,
+          "dayTitle": "Lower Body & Core",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Goblet Squats",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Hold a dumbbell vertically against your chest with both hands. Stand feet shoulder-width apart. Squat down keeping chest up and back straight. Go as deep as comfortable. Stand back up.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Quads, Glutes, Core",
+              "equipment": "Dumbbell",
+              "beginnerModification": "Bodyweight squats.",
+              "imageSuggestion": "Person holding a dumbbell vertically at chest level, performing a squat."
+            },
+            {
+              "name": "Walking Lunges",
+              "setsReps": "3 sets x 10-12 reps per leg",
+              "howToPerform": "Stand tall. Step forward with one leg, lowering hips until both knees are bent at ~90 degrees. Front knee over ankle, back knee near floor. Push off back foot and step through into the next lunge with the opposite leg. Can hold dumbbells for added resistance.",
+              "restTime": "60 sec",
+              "targetMuscles": "Quads, Glutes, Hamstrings",
+              "equipment": "Optional Dumbbells",
+              "beginnerModification": "Stationary Lunges (alternate legs without walking); hold onto a wall/chair for balance.",
+              "imageSuggestion": "Person mid-stride in a walking lunge, one knee forward bent at 90 degrees, back knee near floor."
+            },
+            {
+              "name": "Hamstring Curls (Machine)",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "Lie face down or sit on hamstring curl machine. Position pad just above ankles. Curl heels towards glutes by bending knees. Squeeze hamstrings. Lower slowly.",
+              "restTime": "60 sec",
+              "targetMuscles": "Hamstrings",
+              "equipment": "Hamstring Curl Machine (Lying or Seated)",
+              "beginnerModification": "Use lighter weight; focus on slow, controlled negative (lowering phase). Resistance band hamstring curls.",
+              "imageSuggestion": "Person lying face down on a machine, curling their lower legs up towards their glutes."
+            },
+            {
+              "name": "Calf Raises (Standing or Seated)",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "Stand with balls of feet on an elevated surface (step, weight plate), heels hanging off. Rise up onto toes as high as possible. Hold briefly. Lower heels below platform level, feeling a stretch.",
+              "restTime": "45-60 sec",
+              "targetMuscles": "Calves (Gastrocnemius, Soleus)",
+              "equipment": "Step or Elevated Surface, Optional Weights/Machine",
+              "beginnerModification": "Perform on flat ground; use bodyweight only.",
+              "imageSuggestion": "Person standing on the edge of a step, pushing up onto their tiptoes."
+            },
+            {
+              "name": "Plank",
+              "setsReps": "3 sets x 30-60 seconds hold",
+              "howToPerform": "Lie face down. Place forearms on floor, elbows under shoulders, palms flat or clasped. Lift hips off floor, forming a straight line from head to heels. Engage core, don't let hips sag or rise too high.",
+              "restTime": "60 sec",
+              "targetMuscles": "Core (Abs, Obliques, Lower Back)",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "Hold for shorter duration (15-20 sec); Drop to knees (Knee Plank).",
+              "imageSuggestion": "Person holding a rigid straight line from head to heels, supported on forearms and toes."
+            },
+            {
+              "name": "Crunches",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "Lie on back, knees bent, feet flat on floor. Hands behind head (lightly) or across chest. Lift head and shoulders off floor, engaging abs. Keep lower back pressed into floor. Lower slowly.",
+              "restTime": "45-60 sec",
+              "targetMuscles": "Abdominals (Rectus Abdominis)",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "Fewer reps; ensure you're lifting with abs, not pulling neck.",
+              "imageSuggestion": "Person lying on their back, lifting shoulders off the floor slightly, hands lightly supporting head."
+            }
+          ]
+        },
+        {
+          "dayNumber": 7,
+          "dayTitle": "Rest or Active Recovery",
+          "description": "Light activity like walking, stretching, or foam rolling. Focus on letting muscles recover.",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "planName": "Weight Loss & Fat Burn Plan",
+      "goal": "Maximize calorie burn through a mix of strength training (to preserve muscle) and cardiovascular exercise.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayTitle": "Full Body Strength A (Circuit Style)",
+          "description": "Perform exercises back-to-back with minimal rest. Rest 60-90 seconds after completing all exercises in one round. Complete 3 rounds.",
+          "exercises": [
+            {
+              "name": "Goblet Squats",
+              "setsReps": "12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 6",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Push-ups",
+              "setsReps": "As Many Reps As Possible - AMRAP",
+              "howToPerform": "Hands slightly wider than shoulders. Straight line from head to heels. Lower chest towards floor, elbows slightly tucked. Push back up.",
+              "restTime": null,
+              "targetMuscles": "Chest, Shoulders, Triceps, Core",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "Incline Push-ups (hands on elevated surface), Knee Push-ups.",
+              "imageSuggestion": "Person in a plank position, lowering or pushing up from the floor."
+            },
+            {
+              "name": "Dumbbell Rows",
+              "setsReps": "10-12 reps per arm",
+              "howToPerform": "See Muscle Gain Plan, Day 2",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Walking Lunges",
+              "setsReps": "10 reps per leg",
+              "howToPerform": "See Muscle Gain Plan, Day 6",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Plank",
+              "setsReps": "30-45 seconds hold",
+              "howToPerform": "See Muscle Gain Plan, Day 6",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "dayTitle": "Cardio (Moderate Intensity)",
+          "description": "Activity: Choose one: Brisk Walking (outdoors or treadmill), Jogging, Cycling (stationary or outdoors), Elliptical, Swimming.",
+          "exercises": [],
+          "restTime": "30-45 minutes"
+        },
+        {
+          "dayNumber": 3,
+          "dayTitle": "Full Body Strength B (Circuit Style)",
+          "description": "Perform exercises back-to-back with minimal rest. Rest 60-90 seconds after completing all exercises in one round. Complete 3 rounds.",
+          "exercises": [
+            {
+              "name": "Dumbbell Romanian Deadlifts (RDLs)",
+              "setsReps": "12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Incline Dumbbell Press",
+              "setsReps": "12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 1",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Lat Pulldowns / Band Pull-Aparts",
+              "setsReps": "12-15 reps",
+              "howToPerform": "How to perform (Band): Hold a resistance band with both hands, shoulder-width apart, arms straight out front. Pull hands apart, stretching the band across chest. Squeeze shoulder blades. Return slowly.",
+              "restTime": null,
+              "targetMuscles": "Lats, Rhomboids / Rear Deltoids, Upper Back",
+              "equipment": "Lat Pulldown Machine / Resistance Band",
+              "beginnerModification": "Use lighter resistance band; focus on squeeze.",
+              "imageSuggestion": "Person pulling a resistance band apart across their chest."
+            },
+            {
+              "name": "Glute Bridges",
+              "setsReps": "15-20 reps",
+              "howToPerform": "Lie on back, knees bent, feet flat, arms by sides. Lift hips off floor until body forms straight line from shoulders to knees. Squeeze glutes at top. Lower slowly.",
+              "restTime": null,
+              "targetMuscles": "Glutes, Hamstrings",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "Bodyweight is beginner-friendly; add weight plate on hips for progression.",
+              "imageSuggestion": "Person lying on back, lifting hips towards the ceiling."
+            },
+            {
+              "name": "Bicycle Crunches",
+              "setsReps": "20-30 reps total",
+              "howToPerform": "Lie on back, hands behind head. Bring knees to chest. Bring right elbow towards left knee while straightening right leg. Alternate sides in a cycling motion.",
+              "restTime": null,
+              "targetMuscles": "Abs, Obliques",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "Go slower; keep feet closer to floor.",
+              "imageSuggestion": "Person lying on back, twisting torso to bring opposite elbow to knee."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "dayTitle": "Cardio (HIIT - High-Intensity Interval Training)",
+          "description": "Warm-up: 5 minutes light cardio. Workout: Choose one activity (e.g., Running Sprints, Stationary Bike Sprints, Jumping Jacks, Burpees, High Knees). Perform 30 seconds of HIGH intensity effort (go almost all-out). Followed by 60 seconds of LOW intensity recovery (walk, slow pedal, rest). Repeat this cycle 8-10 times. Cool-down: 5 minutes light cardio and stretching.",
+          "exercises": [],
+          "restTime": "Approx 20-25 minutes (including warm-up/cool-down)"
+        },
+        {
+          "dayNumber": 5,
+          "dayTitle": "Full Body Strength C (Focus on Control)",
+          "description": "Perform exercises with standard sets/reps and controlled tempo.",
+          "exercises": [
+            {
+              "name": "Bodyweight Squats",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "Focus on depth and form.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Incline Push-ups",
+              "setsReps": "3 sets x AMRAP",
+              "howToPerform": "Hands on bench/wall.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Single-Arm Dumbbell Rows",
+              "setsReps": "3 sets x 10-12 reps per arm",
+              "howToPerform": "See Muscle Gain Plan, Day 2",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Reverse Lunges",
+              "setsReps": "3 sets x 10-12 reps per leg",
+              "howToPerform": "Stand tall. Step backward with one leg, lowering hips until both knees are near 90 degrees. Push off back foot to return to start. Alternate legs.",
+              "restTime": null,
+              "targetMuscles": "Quads, Glutes",
+              "equipment": "Optional Dumbbells",
+              "beginnerModification": "Hold onto support; reduce range of motion.",
+              "imageSuggestion": "Person stepping backward into a lunge position."
+            },
+            {
+              "name": "Dumbbell Shoulder Press (Seated)",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Leg Raises",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "Lie on back, legs straight, hands under lower back for support. Keeping legs straight, raise them towards ceiling until perpendicular to floor. Lower slowly without touching floor.",
+              "restTime": null,
+              "targetMuscles": "Lower Abs, Hip Flexors",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "Bend knees; raise one leg at a time; reduce range of motion.",
+              "imageSuggestion": "Person lying on back, lifting straight legs towards the ceiling."
+            }
+          ]
+        },
+        {
+          "dayNumber": 6,
+          "dayTitle": "Active Recovery",
+          "description": "Activity: 30-60 minutes of low-intensity activity like walking, gentle cycling, yoga, or stretching.",
+          "exercises": [],
+          "restTime": "Promote blood flow and recovery without adding significant stress."
+        },
+        {
+          "dayNumber": 7,
+          "dayTitle": "Rest",
+          "description": "Complete rest. Focus on hydration and nutrition.",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "planName": "Weight Gain for Beginners Plan",
+      "goal": "Build a foundation of strength and muscle mass using simple, effective exercises. Focus on compound movements and mastering form. Pair with a consistent calorie surplus.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayTitle": "Full Body Workout 1",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Goblet Squats",
+              "setsReps": "3 sets x 8-10 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 6. Focus heavily on form.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Incline Push-ups / Knee Push-ups",
+              "setsReps": "3 sets x 6-10 reps",
+              "howToPerform": "See Weight Loss Plan, Day 1. Choose the variation you can do with good form.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Rows",
+              "setsReps": "3 sets x 8-10 reps per arm",
+              "howToPerform": "See Muscle Gain Plan, Day 2. Use a bench for support.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Plank",
+              "setsReps": "3 sets x 20-30 seconds hold",
+              "howToPerform": "See Muscle Gain Plan, Day 6. Focus on maintaining a straight line.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Bicep Curls (Seated)",
+              "setsReps": "3 sets x 8-12 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 2. Seated helps maintain form.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "dayTitle": "Rest",
+          "description": "Allow muscles to recover and grow. Focus on nutrition.",
+          "exercises": []
+        },
+        {
+          "dayNumber": 3,
+          "dayTitle": "Full Body Workout 2",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Bodyweight Lunges",
+              "setsReps": "3 sets x 8-10 reps per leg",
+              "howToPerform": "See Muscle Gain Plan, Day 6 (Stationary version first). Use support if needed.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Seated Dumbbell Shoulder Press",
+              "setsReps": "3 sets x 8-10 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3. Use light weight.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Resistance Band Rows / Light Dumbbell Rows",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Focus on squeezing shoulder blades.",
+              "restTime": null,
+              "targetMuscles": "Back, Biceps",
+              "equipment": "Resistance Band / Light Dumbbells",
+              "beginnerModification": null,
+              "imageSuggestion": "Person seated pulling resistance band handles towards their body."
+            },
+            {
+              "name": "Glute Bridges",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Weight Loss Plan, Day 3.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Overhead Extension (Seated)",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 1. Use light weight.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "dayTitle": "Rest",
+          "description": "Focus on nutrition and hydration. Light stretching if desired.",
+          "exercises": []
+        },
+        {
+          "dayNumber": 5,
+          "dayTitle": "Full Body Workout 3",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Bodyweight Squats",
+              "setsReps": "3 sets x 10-15 reps",
+              "howToPerform": "Focus on smooth, controlled movement.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Push-ups (Variation from Day 1)",
+              "setsReps": "3 sets x AMRAP with good form",
+              "howToPerform": "Try to get 1-2 more reps than Day 1 if possible.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Romanian Deadlifts (RDLs)",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3. Use very light weight or just focus on the hip hinge movement.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Bird Dog",
+              "setsReps": "3 sets x 10-12 reps per side",
+              "howToPerform": "Start on hands and knees (tabletop). Extend right arm straight forward and left leg straight back simultaneously, keeping core tight and back flat. Hold briefly. Return to start. Repeat on other side.",
+              "restTime": null,
+              "targetMuscles": "Core, Glutes, Back Stabilizers",
+              "equipment": "Mat (optional)",
+              "beginnerModification": "This exercise is beginner-friendly. Move slowly.",
+              "imageSuggestion": "Person on hands and knees, extending opposite arm and leg straight out, maintaining a flat back."
+            },
+            {
+              "name": "Standing Dumbbell Hammer Curls",
+              "setsReps": "3 sets x 10-12 reps per arm",
+              "howToPerform": "See Muscle Gain Plan, Day 2.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 6,
+          "dayTitle": "Rest or Light Activity",
+          "description": "A short walk (15-20 minutes) is fine. Main focus is recovery.",
+          "exercises": []
+        },
+        {
+          "dayNumber": 7,
+          "dayTitle": "Rest",
+          "description": "Prepare for the next week. Ensure adequate protein intake.",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "planName": "Athletic Performance & Strength Plan",
+      "goal": "Improve strength, power, and conditioning for better sports performance.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayTitle": "Lower Body Strength & Power",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Barbell Back Squats",
+              "setsReps": "4 sets x 5-6 reps",
+              "howToPerform": "Focus on moving decent weight with excellent form. Increase weight gradually. - See Muscle Gain Plan, Day 3",
+              "restTime": "2-3 min",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Romanian Deadlifts (RDLs)",
+              "setsReps": "3 sets x 6-8 reps",
+              "howToPerform": "Focus on hamstring and glute engagement. - See Muscle Gain Plan, Day 3",
+              "restTime": "90-120 sec",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Box Jumps / Broad Jumps",
+              "setsReps": "3 sets x 5-6 reps",
+              "howToPerform": "Stand facing a sturdy box. Swing arms back, bend knees, explode up, landing softly on box with knees bent. Step down (don't jump down).",
+              "restTime": "90-120 sec",
+              "targetMuscles": "Glutes, Quads, Hamstrings, Calves (Power Development)",
+              "equipment": "Sturdy Box (for Box Jumps)",
+              "beginnerModification": "Low box jumps (6-12 inches); focus on landing mechanics for broad jumps (short distance). Tuck jumps if no equipment.",
+              "imageSuggestion": "Person mid-air jumping onto a box, or landing a forward broad jump."
+            },
+            {
+              "name": "Walking Lunges (with Dumbbells)",
+              "setsReps": "3 sets x 8-10 reps per leg",
+              "howToPerform": "See Muscle Gain Plan, Day 6. Use challenging weight.",
+              "restTime": "60-90 sec",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Kettlebell Swings",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Stand feet slightly wider than shoulder-width, KB on floor slightly in front. Hinge hips back, grab KB with both hands. Hike KB back between legs, then thrust hips forward explosively, swinging KB up to chest height. Let it swing back down under control. Movement comes from hips, not arms.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Glutes, Hamstrings, Hips, Core, Back (Power Endurance)",
+              "equipment": "Kettlebell",
+              "beginnerModification": "Use lighter KB; practice hip hinge (like RDL) first. Dumbbell swings possible but less ideal.",
+              "imageSuggestion": "Person at the top of a kettlebell swing, KB at chest height, body upright, hips fully extended."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "dayTitle": "Upper Body Strength & Power",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "setsReps": "4 sets x 5-6 reps",
+              "howToPerform": "Focus on strength. - See Muscle Gain Plan, Day 1",
+              "restTime": "2-3 min",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Pull-Ups / Weighted Pull-Ups",
+              "setsReps": "4 sets x 5-8 reps",
+              "howToPerform": "Add weight if needed. - See Muscle Gain Plan, Day 2",
+              "restTime": "2-3 min",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": "Lat Pulldowns (5-8 rep range with challenging weight) or Assisted Pull-ups.",
+              "imageSuggestion": null
+            },
+            {
+              "name": "Overhead Press (Barbell)",
+              "setsReps": "3 sets x 5-6 reps",
+              "howToPerform": "Focus on strict form. - See Muscle Gain Plan, Day 3",
+              "restTime": "2-3 min",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Medicine Ball Slams / Throws",
+              "setsReps": "3 sets x 6-8 reps",
+              "howToPerform": "Stand feet shoulder-width, hold med ball. Raise ball overhead, extending body. Slam ball forcefully down onto floor just in front of feet. Catch on bounce or pick up.",
+              "restTime": "90-120 sec",
+              "targetMuscles": "Core, Lats, Shoulders, Triceps (Power Development)",
+              "equipment": "Medicine Ball (non-bouncing for slams ideally), Sturdy Wall (for throws)",
+              "beginnerModification": "Use lighter ball; focus on explosive movement. Overhead throws if slams are too complex initially.",
+              "imageSuggestion": "Person forcefully slamming a medicine ball towards the ground from overhead."
+            },
+            {
+              "name": "Barbell Rows",
+              "setsReps": "3 sets x 6-8 reps",
+              "howToPerform": "Focus on pulling heavy with good form. - See Muscle Gain Plan, Day 2",
+              "restTime": "90-120 sec",
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "dayTitle": "Conditioning & Agility",
+          "description": "Warm-up: Include dynamic stretches, high knees, butt kicks, carioca.",
+          "exercises": [
+            {
+              "name": "Agility Ladder Drills",
+              "setsReps": "5-10 minutes",
+              "howToPerform": "Examples: Forward run (one foot in each box), Lateral run (sideways, one foot in each), Ickey shuffle. Focus on quick feet and coordination.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": "Agility Ladder (can draw one with chalk)",
+              "beginnerModification": null,
+              "imageSuggestion": "Person moving quickly through the squares of an agility ladder laid on the ground."
+            },
+            {
+              "name": "Cone Drills",
+              "setsReps": "3-4 sets x 4-6 reps per drill",
+              "howToPerform": "Example (3-Cone Drill): Set up 3 cones in an L-shape (5 yards apart). Sprint cone 1 to 2, touch cone, sprint back to 1, touch, sprint around cone 2 to cone 3, loop around 3, sprint back past cone 1.",
+              "restTime": "Full recovery between reps (60-90 sec).",
+              "targetMuscles": "Legs, Core (Change of Direction Speed)",
+              "equipment": "Cones",
+              "beginnerModification": "Walk through drill first; increase speed gradually. Use fewer cones or simpler patterns (e.g., shuttle run between 2 cones).",
+              "imageSuggestion": "Person sprinting and changing direction around cones."
+            },
+            {
+              "name": "Sprints",
+              "setsReps": "6-8 sets x 30-50 yards/meters",
+              "howToPerform": "Sprint at 90-95% maximum effort. Focus on powerful strides and arm action.",
+              "restTime": "Walk back recovery (full recovery).",
+              "targetMuscles": "Legs, Glutes, Core (Speed & Power)",
+              "equipment": "Open space (track, field)",
+              "beginnerModification": "Shorter distance (20 yards); lower intensity (80-85%); fewer reps. Hill sprints (lower impact).",
+              "imageSuggestion": "Person sprinting at near top speed on a track or field."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "dayTitle": "Rest or Active Recovery",
+          "description": "Light walk, foam rolling, stretching. Focus on recovery.",
+          "exercises": []
+        },
+        {
+          "dayNumber": 5,
+          "dayTitle": "Full Body Strength Focus",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Deadlifts (Conventional or Sumo)",
+              "setsReps": "Work up to 1 heavy set of 3-5 reps, preceded by warm-up sets",
+              "howToPerform": "How to perform (Conv): Feet hip-width under bar. Hinge hips, grip bar outside shins. Back flat, chest up. Drive through feet, lift bar, extending hips and knees. Keep bar close to body. Lower under control.",
+              "restTime": "3-5 min before heavy set.",
+              "targetMuscles": "Posterior Chain (Glutes, Hamstrings, Back), Quads, Core, Grip",
+              "equipment": "Barbell, Weights",
+              "beginnerModification": "Kettlebell Deadlifts, Dumbbell RDLs. Focus intensely on form. Get coaching if possible. Start very light.",
+              "imageSuggestion": "Person lifting a heavy barbell off the floor, back straight, hips and knees extending."
+            },
+            {
+              "name": "Incline Dumbbell Press",
+              "setsReps": "3 sets x 6-10 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 1.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Front Squats / Goblet Squats",
+              "setsReps": "3 sets x 6-10 reps",
+              "howToPerform": "Front Squats require good mobility. How to perform (Front): Bar rests across front shoulders (clean grip or cross-arm). Elbows high. Squat keeping torso upright.",
+              "restTime": null,
+              "targetMuscles": "Quads, Glutes, Core, Upper Back",
+              "equipment": "Barbell / Dumbbell",
+              "beginnerModification": "Goblet Squats (easier to learn).",
+              "imageSuggestion": "Person performing a squat with barbell held across front of shoulders, elbows pointing forward."
+            },
+            {
+              "name": "Single-Arm Dumbbell Rows",
+              "setsReps": "3 sets x 8-10 reps per arm",
+              "howToPerform": "See Muscle Gain Plan, Day 2.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Farmer's Walk",
+              "setsReps": "3 sets x 30-50 yards",
+              "howToPerform": "Hold heavy dumbbells or kettlebells in each hand at sides. Stand tall, shoulders back, core braced. Walk taking controlled steps.",
+              "restTime": "60-90 sec",
+              "targetMuscles": "Grip, Forearms, Traps, Core, Legs",
+              "equipment": "Heavy Dumbbells/Kettlebells/Farmer's Walk Handles",
+              "beginnerModification": "Use lighter weights; shorter distance.",
+              "imageSuggestion": "Person walking while holding a heavy dumbbell in each hand, arms straight at sides."
+            }
+          ]
+        },
+        {
+          "dayNumber": 6,
+          "dayTitle": "Sport-Specific Drills / Moderate Cardio",
+          "description": "Option 1: Practice skills relevant to your sport (e.g., shooting drills for basketball, hitting practice for baseball, route running for football). (30-60 min) Option 2: Moderate intensity cardio (jogging, cycling, swimming) for 20-30 minutes to aid recovery and maintain aerobic base.",
+          "exercises": [],
+          "restTime": null
+        },
+        {
+          "dayNumber": 7,
+          "dayTitle": "Rest",
+          "description": "Complete rest. Crucial for nervous system and muscle recovery.",
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "planName": "General Fitness & Toning Plan",
+      "goal": "Improve overall health, strength, endurance, and muscle tone without necessarily adding significant bulk. Balanced approach.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayTitle": "Full Body Strength A",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Bodyweight Squats / Goblet Squats",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 6 or Weight Gain Plan, Day 1.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Push-ups (Knees or Toes)",
+              "setsReps": "3 sets x AMRAP with good form",
+              "howToPerform": "See Weight Loss Plan, Day 1.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Rows",
+              "setsReps": "3 sets x 10-12 reps per arm",
+              "howToPerform": "See Muscle Gain Plan, Day 2.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Glute Bridges",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "See Weight Loss Plan, Day 3.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Plank",
+              "setsReps": "3 sets x 30-60 seconds hold",
+              "howToPerform": "See Muscle Gain Plan, Day 6.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Bicep Curls",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 2.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "dayTitle": "Cardio (Moderate Intensity)",
+          "description": "Activity: Choose one: Brisk Walking, Jogging, Cycling, Elliptical, Dancing, Rowing.",
+          "exercises": [],
+          "restTime": "30-40 minutes"
+        },
+        {
+          "dayNumber": 3,
+          "dayTitle": "Upper Body & Core",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Seated Dumbbell Shoulder Press",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Lat Pulldowns / Resistance Band Pulldowns",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 2 (or band variation).",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Bench Press (Flat or Incline)",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 1.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Lateral Raises",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3. Use light weight.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Triceps Kickbacks",
+              "setsReps": "3 sets x 12-15 reps per arm",
+              "howToPerform": "Hinge at hips, back flat, support one hand on bench/thigh. Hold dumbbell in other hand, upper arm parallel to floor, elbow bent 90 deg. Extend forearm straight back, squeezing tricep. Lower slowly.",
+              "restTime": null,
+              "targetMuscles": "Triceps",
+              "equipment": "Dumbbells",
+              "beginnerModification": "Use very light weight; focus on form. Resistance band kickbacks.",
+              "imageSuggestion": "Person bent over, extending one arm straight back holding a dumbbell."
+            },
+            {
+              "name": "Russian Twists",
+              "setsReps": "3 sets x 15-20 reps total",
+              "howToPerform": "Sit on floor, knees bent, feet flat (or lifted for more challenge). Lean back slightly (45 deg), back straight. Clasp hands or hold light weight. Twist torso side to side, touching hands/weight to floor beside hips.",
+              "restTime": null,
+              "targetMuscles": "Obliques, Abs",
+              "equipment": "Mat (optional), Optional Weight (dumbbell, med ball)",
+              "beginnerModification": "Keep feet on floor; move slower; no weight.",
+              "imageSuggestion": "Person seated, leaning back slightly, twisting torso to one side."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "dayTitle": "Lower Body & Light Cardio",
+          "description": null,
+          "exercises": [
+            {
+              "name": "Walking Lunges",
+              "setsReps": "3 sets x 10-12 reps per leg",
+              "howToPerform": "See Muscle Gain Plan, Day 6.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Dumbbell Romanian Deadlifts (RDLs)",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 3.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Standing Calf Raises",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 6.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Side Lunges",
+              "setsReps": "3 sets x 10-12 reps per leg",
+              "howToPerform": "Stand feet hip-width. Step wide to the right, bending right knee and sitting hips back. Keep left leg straight. Push off right foot to return to center. Repeat on left side.",
+              "restTime": null,
+              "targetMuscles": "Inner/Outer Thighs (Adductors/Abductors), Glutes, Quads",
+              "equipment": "None (Optional Dumbbells)",
+              "beginnerModification": "Smaller step; use hands for balance.",
+              "imageSuggestion": "Person stepping out wide to the side, one knee bent, other leg straight."
+            },
+            {
+              "name": "Light Cardio",
+              "setsReps": null,
+              "howToPerform": "15-20 minutes of light activity (e.g., fast walk, light jog, bike).",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 5,
+          "dayTitle": "Full Body Circuit / Strength B",
+          "description": "Option 1 (Circuit): Repeat Day 1 exercises circuit style (minimal rest between exercises, 60-90 sec rest between rounds, 3 rounds). Option 2 (Strength B):",
+          "exercises": [
+            {
+              "name": "Deadlifts (Kettlebell or Dumbbell)",
+              "setsReps": "3 sets x 10-12 reps",
+              "howToPerform": "Focus on form. - See Athletic Plan, Day 5 modifications.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Incline Push-ups / Regular Push-ups",
+              "setsReps": "3 sets x AMRAP",
+              "howToPerform": null,
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Seated Cable Rows / Band Rows",
+              "setsReps": "3 sets x 12-15 reps",
+              "howToPerform": "See Muscle Gain Plan, Day 2.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            },
+            {
+              "name": "Step-Ups",
+              "setsReps": "3 sets x 10-12 reps per leg",
+              "howToPerform": "Stand facing bench/step. Step up with right foot, driving through heel. Bring left foot up. Step down with left, then right. Alternate lead leg. Hold DBs for resistance.",
+              "restTime": null,
+              "targetMuscles": "Quads, Glutes",
+              "equipment": "Bench or Sturdy Step, Optional Dumbbells",
+              "beginnerModification": "Use lower step; no weight.",
+              "imageSuggestion": "Person stepping up onto a bench, one foot planted firmly on top."
+            },
+            {
+              "name": "Crunches / Leg Raises",
+              "setsReps": "3 sets x 15-20 reps",
+              "howToPerform": "Choose one. - See Muscle Gain Plan Day 6 / Weight Loss Plan Day 5.",
+              "restTime": null,
+              "targetMuscles": null,
+              "equipment": null,
+              "beginnerModification": null,
+              "imageSuggestion": null
+            }
+          ]
+        },
+        {
+          "dayNumber": 6,
+          "dayTitle": "Active Recovery / Flexibility",
+          "description": "Activity: Choose one: Yoga Class (online or in-person), dedicated stretching session (hold stretches 30 sec), long walk, light bike ride, foam rolling.",
+          "exercises": [],
+          "restTime": "30-60 minutes."
+        },
+        {
+          "dayNumber": 7,
+          "dayTitle": "Rest",
+          "description": "Complete rest. Allow the body to recover and adapt.",
+          "exercises": []
+        }
+      ]
+    }
+  ]
+}
